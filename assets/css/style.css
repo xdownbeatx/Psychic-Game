@@ -1,0 +1,19 @@
+
+body{
+    background-image: url("../images/PsychicDirection1000.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    /* opacity: .3; */
+    /* width:100% */
+}
+
+#game{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: papayawhip;
+    font-size: 1.5rem;
+    margin-left:39%;
+    padding-top:8%;
+    
+    
+    
+}
